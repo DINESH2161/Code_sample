@@ -39,6 +39,10 @@ public class Data1 {
 			driver = new FirefoxDriver();
 		}
 		
+		else {
+			System.out.println("Done");
+		}
+		
 		
 		}
 	
